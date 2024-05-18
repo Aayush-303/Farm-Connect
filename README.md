@@ -166,6 +166,3 @@ The Crop Management System dataset includes the following features:
 - Fertilizer Recommendation: Input `Temperature`, `Humidity`, `Soil Moisture`, `Soil Type`, `Crop Type`, `Nitrogen`, `Phosphorous`, and `Potassium` to get recommended fertilizer for that crop and location.
 - Rainfall Prediction: Input `Subdivision` and `Year` to get rainfall prediction for that year.
 - Yield Prediction: Input `State_Name`, `District_Name`, `Crop_Year`, `Season`, `Crop`, `Area`, `Production` to get predicted yields for that crop and location.
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
