@@ -1,0 +1,10 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+joblib==1.4.2
+# json==2.0.9
+# jsonlib==1.6.1
+json
+# sys==2.1.4
+sys
+scikit-learn==1.4.2

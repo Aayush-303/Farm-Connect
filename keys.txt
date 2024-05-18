@@ -1,0 +1,8 @@
+news api  :  976c105fb20d4cb3b0bc1569f0f1b383
+
+open weather  :  78b504da3566cd8fa4b607e03eedaf36
+
+stripe : pk_test_51PAVMbSCuF2v0HMWiL1KkuOpNzf3VBLGhZ8PoyJpYJXsT0Io20iqxLaTpy5bH8EA370gaAVO5hCy3czdI1VZcaqK00niSUUJPK
+secret key  :  sk_test_51PAVMbSCuF2v0HMW5GCOkcFiMREZlS40GaXa283DuYrPUiFdHXYSLH2D0MW05NFR40XLXlBYHKeHFLzmolrUJmZH00UpQ10feX
+
+open ai  :  sk-proj-F1mRwMn07tX70STgvW8ET3BlbkFJpiMzsPAr6acsOx0SRGWM
